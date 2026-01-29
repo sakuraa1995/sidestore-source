@@ -12,8 +12,9 @@
       "localizedDescription": "Version premium de Noir",
       "iconURL": "https://sakuraa1995.github.io/sidestore-source/Noir.png",
       "downloadURL": "https://sakuraa1995.github.io/sidestore-source/Noir.ipa",
-      "version": "2025.2.8",
+      "version": "2026.3.0",
       "versionDate": "2026-01-28",
+      "versionDescription": "• Déblocage des fonctionnalités premium\n• Amélioration de la stabilité\n• Corrections de bugs",
       "size": 11290000
     },
     {
@@ -24,8 +25,9 @@
       "localizedDescription": "Application de signature IPA pour iOS",
       "iconURL": "https://sakuraa1995.github.io/sidestore-source/IMG_0781.png",
       "downloadURL": "https://sakuraa1995.github.io/sidestore-source/Ksign.ipa",
-      "version": "1.2.1",
+      "version": "1.0.0",
       "versionDate": "2026-01-29",
+      "versionDescription": "• Première version publique\n• Signature IPA rapide et simple\n• Interface légère",
       "size": 9000000
     },
     {
@@ -35,9 +37,10 @@
       "subtitle": "Gestionnaire de presse-papiers",
       "localizedDescription": "Application pour gérer et organiser le presse-papiers sur iOS",
       "iconURL": "https://sakuraa1995.github.io/sidestore-source/Paste.PNG",
-      "downloadURL": "https://github.com/sakuraa1995/sidestore-source/releases/download/Paste/Paste.ipa",
+      "downloadURL": "https://sakuraa1995.github.io/sidestore-source/Paste.ipa",
       "version": "6.3.4",
       "versionDate": "2026-01-29",
+      "versionDescription": "• Nouvelle interface utilisateur\n• Amélioration de la synchronisation\n• Corrections de bugs et performances accrues",
       "size": 8500000
     }
   ]
