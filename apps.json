@@ -60,14 +60,14 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "SP-SPOOF",
-      "subtitle": "YouTube Music",
+      "subtitle": "YouTube",
       "localizedDescription": "• MOD 😈\n• Lecture en arrière-plan ✅\n• Sans publicités ✅",
-      "iconURL": "https://sakuraa1995.github.io/sidestore-source/YouTubemusic.png",
-      "downloadURL": "https://github.com/sakuraa1995/sidestore-source/releases/download/YouTubeMusic/YoutubeMusic.ipa",
+      "iconURL": "https://sakuraa1995.github.io/sidestore-source/YouTube.png",
+      "downloadURL": "https://github.com/sakuraa1995/sidestore-source/releases/download/YouTubeMusic/Youtube.ipa",
       "version": "9.02.5",
       "versionDate": "2026-01-29",
       "versionDescription": "• Suppression des publicités\n• Lecture en arrière-plan\n• Amélioration de la stabilité",
       "size": 105000000
-    }
+    },
   ]
 }
