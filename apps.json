@@ -1,4 +1,8 @@
 {
+  "name": "Sakuraa SideStore Source",
+  "identifier": "sakuraa.sidestore.source",
+  "subtitle": "Source personnelle SideStore",
+  "description": "Source privée hébergée sur GitHub Pages",
   "apps": [
     {
       "name": "Noir Premium",
