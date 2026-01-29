@@ -5,10 +5,10 @@
   "description": "Source privée hébergée sur GitHub Pages",
   "apps": [
     {
-      "name": "Noir Premium",
+      "name": "Noir",
       "bundleIdentifier": "nl.jeffreykuiken.NoirApp",
-      "developerName": "Jeffrey Kuiken",
-      "subtitle": "Noir 2025.2.8 Premium",
+      "developerName": "SP-SPOOF",
+      "subtitle": "Noir Premium",
       "localizedDescription": "Version premium de Noir",
       "iconURL": "https://sakuraa1995.github.io/sidestore-source/icon.png",
       "downloadURL": "https://sakuraa1995.github.io/sidestore-source/MonApp.ipa",
@@ -19,13 +19,13 @@
     {
       "name": "Ksign",
       "bundleIdentifier": "com.Asami.NL6N7N6RB7",
-      "developerName": "Asami",
-      "subtitle": "Ksign IPA Signer",
+      "developerName": "SP-SPOOF",
+      "subtitle": "Ksign Premium",
       "localizedDescription": "Application de signature IPA pour iOS",
       "iconURL": "https://sakuraa1995.github.io/sidestore-source/IMG_0781.png",
       "downloadURL": "https://sakuraa1995.github.io/sidestore-source/Ksign.ipa",
-      "version": "1.0.0",
-      "versionDate": "2026-01-29",
+      "version": "3.0.0",
+      "versionDate": "2026-02-29",
       "size": 9000000
     }
   ]
