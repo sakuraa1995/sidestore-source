@@ -27,6 +27,18 @@
       "version": "1.0.0",
       "versionDate": "2026-01-29",
       "size": 9000000
+    },
+    {
+      "name": "Paste",
+      "bundleIdentifier": "com.wiheads.paste",
+      "developerName": "SP-SPOOF",
+      "subtitle": "Gestionnaire de presse-papiers",
+      "localizedDescription": "Application pour gérer et organiser le presse-papiers sur iOS",
+      "iconURL": "https://sakuraa1995.github.io/sidestore-source/Paste.png",
+      "downloadURL": "https://sakuraa1995.github.io/sidestore-source/Paste.ipa",
+      "version": "3.5.1",
+      "versionDate": "2026-01-29",
+      "size": 8500000
     }
   ]
 }
