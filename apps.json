@@ -1,32 +1,26 @@
 {
-  "name": "Sakuraa SideStore Source",
-  "identifier": "sakuraa.sidestore.source",
-  "subtitle": "Source personnelle SideStore",
-  "description": "Source privée hébergée sur GitHub Pages",
+  "name": "SP-SPOOF",
+  "identifier": "com.sakuraa.sp-spoof.sidestore",
   "apps": [
     {
-      "name": "Noir",
-      "bundleIdentifier": "nl.jeffreykuiken.NoirApp",
-      "developerName": "SP-SPOOF",
-      "subtitle": "Noir Premium",
-      "localizedDescription": "Version premium de Noir",
-      "iconURL": "https://sakuraa1995.github.io/sidestore-source/icon.png",
-      "downloadURL": "https://sakuraa1995.github.io/sidestore-source/MonApp.ipa",
-      "version": "2025.2.8",
-      "versionDate": "2026-01-28",
-      "size": 11290000
+      "name": "MonApp",
+      "bundleIdentifier": "com.sakuraa.monapp",
+      "developerName": "Sakuraa",
+      "version": "1.0",
+      "versionDate": "2026-01-29",
+      "downloadURL": "https://raw.githubusercontent.com/sakuraa1995/sidestore-source/main/MonApp.ipa",
+      "localizedDescription": "MonApp est une application simple, fluide et pensée pour une utilisation quotidienne. Elle offre une interface propre, des performances optimisées et une expérience stable sur iOS, parfaitement adaptée à une installation via SideStore.",
+      "iconURL": "https://raw.githubusercontent.com/sakuraa1995/sidestore-source/main/IMG_0775.png"
     },
     {
       "name": "Ksign",
-      "bundleIdentifier": "com.Asami.NL6N7N6RB7",
-      "developerName": "SP-SPOOF",
-      "subtitle": "Ksign Premium",
-      "localizedDescription": "Application de signature IPA pour iOS",
-      "iconURL": "https://sakuraa1995.github.io/sidestore-source/IMG_0781.png",
-      "downloadURL": "https://sakuraa1995.github.io/sidestore-source/Ksign.ipa",
-      "version": "3.0.0",
-      "versionDate": "2026-02-29",
-      "size": 9000000
+      "bundleIdentifier": "com.sakuraa.ksign",
+      "developerName": "Sakuraa",
+      "version": "1.0",
+      "versionDate": "2026-01-29",
+      "downloadURL": "https://raw.githubusercontent.com/sakuraa1995/sidestore-source/main/Ksign.ipa",
+      "localizedDescription": "Ksign est un outil dédié à la signature d’applications iOS. Il permet de gérer facilement les IPA, de simplifier le processus de signature et d’assurer une installation rapide et fiable via SideStore.",
+      "iconURL": "https://raw.githubusercontent.com/sakuraa1995/sidestore-source/main/IMG_0781.png"
     }
   ]
 }
