@@ -1,6 +1,14 @@
 {
-  "version": 1,
+  "version": 2,
   "enabled": true,
-  "hashes": [],
-  "revoked": []
+  "keys": [
+    {
+      "id": "K-0001",
+      "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "createdAt": "2026-02-04T15:00:00Z",
+      "expiresAt": "2026-03-06T15:00:00Z",
+      "banned": false,
+      "note": "Client #1 - 30 days"
+    }
+  ]
 }
