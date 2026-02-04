@@ -9,6 +9,14 @@
       "expiresAt": "2026-03-06T15:00:00Z",
       "banned": false,
       "note": "Client #1 - 30 days"
+    },
+    {
+      "id": "K-433598",
+      "hash": "3b4d99659be7d90aa59a46b8851084cfadf81b3fabff6af4176a066e69c99ef8",
+      "createdAt": "2026-02-04T16:43:53.598Z",
+      "expiresAt": "2026-03-06T16:43:53.598Z",
+      "banned": false,
+      "note": "30 days"
     }
   ]
 }
